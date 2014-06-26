@@ -1,0 +1,4 @@
+E:\Project\ExportXLSFromDataTable\AAAAA\bin\Debug\AAAAA.dll
+E:\Project\ExportXLSFromDataTable\AAAAA\bin\Debug\AAAAA.pdb
+E:\Project\ExportXLSFromDataTable\AAAAA\obj\Debug\AAAAA.dll
+E:\Project\ExportXLSFromDataTable\AAAAA\obj\Debug\AAAAA.pdb

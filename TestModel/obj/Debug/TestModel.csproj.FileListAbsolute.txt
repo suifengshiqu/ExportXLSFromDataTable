@@ -1,0 +1,6 @@
+E:\Project\ExportXLSFromDataTable\TestModel\bin\Debug\TestModel.dll
+E:\Project\ExportXLSFromDataTable\TestModel\bin\Debug\TestModel.pdb
+E:\Project\ExportXLSFromDataTable\TestModel\bin\Debug\CommonDAO.dll
+E:\Project\ExportXLSFromDataTable\TestModel\obj\Debug\TestModel.dll
+E:\Project\ExportXLSFromDataTable\TestModel\obj\Debug\TestModel.pdb
+E:\Project\ExportXLSFromDataTable\TestModel\obj\Debug\TestModel.csprojResolveAssemblyReference.cache
